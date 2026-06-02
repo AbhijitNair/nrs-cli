@@ -5,7 +5,7 @@
   "type": "module",
   "main": "./src/cli.js",
   "bin": {
-    "nrs": "./src/cli.js"
+    "nrs": "src/cli.js"
   },
   "engines": {
     "node": ">=20.0.0"
