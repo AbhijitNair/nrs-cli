@@ -2,11 +2,20 @@
   "name": "nrs-cli",
   "version": "2.2.0",
   "description": "NPM Registry Switcher - manage multiple npm registry profiles",
+  "author": "Abhijit Nair",
   "type": "module",
   "main": "./src/cli.js",
   "bin": {
     "nrs": "src/cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbhijitNair/nrs-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbhijitNair/nrs-cli/issues"
+  },  
+  "homepage": "https://github.com/AbhijitNair/nrs-cli#readme",
   "engines": {
     "node": ">=20.0.0"
   },
