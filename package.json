@@ -1,6 +1,6 @@
 {
   "name": "nrs-cli",
-  "version": "2.2.0",
+  "version": "0.2.1",
   "description": "NPM Registry Switcher - manage multiple npm registry profiles",
   "author": "Abhijit Nair",
   "type": "module",
